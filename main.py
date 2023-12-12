@@ -104,4 +104,5 @@ while game_on:
         if snake_head.distance(segment) < 10:
             if segment == segments[0]: continue
             game_on = False
+# test
 screen.exitonclick()
