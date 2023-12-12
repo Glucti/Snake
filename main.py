@@ -105,4 +105,6 @@ while game_on:
             if segment == segments[0]: continue
             game_on = False
 "test"
+"test"
+"another test"
 screen.exitonclick()
